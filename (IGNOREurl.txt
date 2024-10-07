@@ -1,0 +1,9 @@
+urls = [
+    "https://younginnovations.com.np/career",
+    "https://soanitech.com/career/",
+    "https://infodev.com.np/careers",
+    "https://palmmind.com/vacancy/",
+    "https://www.amniltech.com/career",
+    "https://javra.com/career-opportunities-at-javra",
+    "https://horizontechnology.com.np/career/",
+]

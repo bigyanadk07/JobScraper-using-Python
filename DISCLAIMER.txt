@@ -1,0 +1,14 @@
+Disclaimer:
+This job scraper is a quick practice project designed to help automate job hunting, but it may not always yield the desired results. The code relies on the structure of the career pages, which can vary greatly between websites. If you encounter any issues, such as:
+
+Receiving 0 job listings,
+Not finding relevant job titles,
+The scraper not working as expected, or
+Pages failing to load properly,
+please don’t get discouraged! These challenges are part of the web scraping process. Websites may change their structure, making the scraper less effective, or the keywords used may not match the job titles.
+
+What You Can Do:
+Try adding more career pages to scrape by updating the company_urls.xlsx file.
+Refine the keywords to improve the search for job titles.
+Explore other web scraping tools or projects that may offer better functionality or customization for your specific needs.
+Remember, this project is just a starting point and a learning tool. There are many other web scrapers and techniques available, so keep experimenting and hunting for that perfect job! Don't give up!
