@@ -17,21 +17,22 @@ Make sure you have Python installed. Then, install the required libraries by run
   
 The required libraries include:  
 
-selenium  
-webdriver-manager  
-beautifulsoup4  
-pandas    
-openpyxl    
+  selenium  
+  webdriver-manager  
+  beautifulsoup4  
+  pandas    
+  openpyxl    
 
 3. Prepare the Excel sheet:  
 Open the company_urls.xlsx file.  
 Add or modify company names and URLs in the sheet under the Company Name and URL columns.  
 Save the file.
-
-5. Run the Scraper:  
+  
+4. Run the Scraper:  
 To run the scraper, execute the following command in your terminal:  
 
-**python job_scraper.py**
+**python job_scraper.py**  
+
 5. Export Options:
 Once the scraper finishes, it will ask if you want to export the job listings to an Excel file.
 If you choose yes, the job listings will be saved to job_listings.xlsx.
